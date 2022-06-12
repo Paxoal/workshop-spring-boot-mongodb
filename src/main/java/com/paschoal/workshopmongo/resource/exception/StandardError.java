@@ -1,7 +1,7 @@
 package com.paschoal.workshopmongo.resource.exception;
 
 import java.io.Serializable;
-import java.time.Instant;
+
 
 public class StandardError implements Serializable{
 	private static final long serialVersionUID = 1L;
